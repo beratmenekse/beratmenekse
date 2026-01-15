@@ -13,12 +13,8 @@ I am a **Computer Engineering Student** at Ostim Technical University. I have ju
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/beratmenekse">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beratmenekse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratmenekse&layout=compact&theme=dracula"/>
-</a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratmenekse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beratmenekse&layout=compact&theme=dracula)
 
 ---
 
