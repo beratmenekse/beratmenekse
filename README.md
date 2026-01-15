@@ -12,10 +12,21 @@ I am a **Computer Engineering Student** at Ostim Technical University. I have ju
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=beratmenekse&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="beratmenekse" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratmenekse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beratmenekse&layout=compact&theme=dracula&v=1)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratmenekse&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratmenekse&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
