@@ -12,15 +12,6 @@ I am a **Computer Engineering Student** at Ostim Technical University. I have ju
 
 ---
 
-### 📊 My Status
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-critical?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
----
-
 ### 📈 Activity (Manual Update)
 | Projects | Main Language | Status |
 | :---: | :---: | :---: |
