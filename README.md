@@ -12,21 +12,19 @@ I am a **Computer Engineering Student** at Ostim Technical University. I have ju
 
 ---
 
-### 🏆 Achievements
+### 📊 My Status
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=beratmenekse&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="beratmenekse" />
-  </a>
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-critical?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beratmenekse&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratmenekse&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-</p>
+### 📈 Activity (Manual Update)
+| Projects | Main Language | Status |
+| :---: | :---: | :---: |
+| **1** | **C** | **Student** |
 
 ---
 
